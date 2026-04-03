@@ -8,3 +8,5 @@ output_files/
 photoexample/output/ 
 __pycache__/ 
 *.pyc 
+__pycache__/ 
+*.pyc 
