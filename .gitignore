@@ -1,0 +1,10 @@
+*.pem 
+key/ 
+key_output/ 
+*.mp3 
+*.mp4 
+*.exe 
+output_files/ 
+photoexample/output/ 
+__pycache__/ 
+*.pyc 
